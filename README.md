@@ -16,7 +16,7 @@
 ---
 
 ### 💼 Professional Experience
-- **Wipro Technologies** (2022 – Present)  
+- **Wipro Technologies** (Dec 2022 – March 2025)  
   *Python Backend Engineer* | *2+ years of experience*  
   - Worked on designing and developing backend systems using **Python, Django, and FastAPI**.  
   - Involved in **API development, database design, and system integration**.  
