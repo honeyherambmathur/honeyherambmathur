@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Honey Mathur
 
-<!--
-**honeyherambmathur/honeyherambmathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Python Backend Developer | Data Analyst | Aspiring Cloud Engineer**
 
-Here are some ideas to get you started:
+- 🌱 Learning **Django, FastAPI, and Cloud basics**
+- 💬 Ask me about **Python, Data Analysis, Backend Development, Asp.Net**
+- 📫 Reach me at: honeyherambmathur@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- **Languages:** Python, SQL, C#  
+- **Frameworks:** Django, FastAPI, ASP.NET  
+- **Tools:** Git, Docker, Pandas, NumPy  
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyherambmathur&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/honey-mathur-a8120a16a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/honeyherambmathur)
