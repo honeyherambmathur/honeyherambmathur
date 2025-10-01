@@ -28,7 +28,7 @@
 
 ### 💼 Professional Experience
 - **Wipro Limited, Bengaluru** — *Associate Software Engineer*  
-  📅 Dec 2022 – Mar 2025
+  📅 Dec 2022 – Mar 2025<br>
   *Backend Engineer* | *2+ years of experience* 
   - Developed backend solutions using **Python (Django, Flask)** and **ASP.NET Core** for workflow automation and infotainment testing.  
   - Automated processes with **Python/Bash scripting, AI, and ML**, achieving up to **40% manual effort reduction**.  
