@@ -15,6 +15,16 @@
 
 ---
 
+### 💼 Professional Experience
+- **Wipro Technologies** (2022 – Present)  
+  *Python Backend Engineer* | *2+ years of experience*  
+  - Worked on designing and developing backend systems using **Python, Django, and FastAPI**.  
+  - Involved in **API development, database design, and system integration**.  
+  - Collaborated with cross-functional teams to deliver enterprise-grade solutions.  
+  - Contributed to **error handling, monitoring, and performance optimization**.  
+
+---
+
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyherambmathur&show_icons=true&theme=radical)
 
