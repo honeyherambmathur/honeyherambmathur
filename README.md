@@ -1,4 +1,4 @@
-![My Profile Image](./Readme_profile1.png)
+![My Profile Image](./Readme_profile3.png)
 # Hi 👋, I'm Honey Mathur
 
 🚀 **Backend Developer | Data Analyst | Aspiring Data Scientist** 
